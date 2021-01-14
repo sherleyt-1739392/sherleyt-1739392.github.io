@@ -1,0 +1,11 @@
+#float {
+  float: right;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: black;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
